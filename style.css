@@ -1,0 +1,209 @@
+body
+{
+	background-color: #404040;
+	color: #ffffff;
+}
+
+a
+{
+	color: white;
+	font-size:18px;
+}
+
+#container
+{
+	text-align: center;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+#logo
+{
+	text-align: center;
+	margin-top: 20px;
+	font-size: 44px;
+	letter-spacing: 3px;
+}
+
+#menu
+{
+	margin-top:2px;
+	margin-bottom:2px;
+	float:right;
+	height:25px;
+	width:1000px;
+	background-color: #303030;
+	margin-top: 20px;
+	color: #ffffff;
+	padding: 10px;
+	border-left:1px solid gray;
+	border-bottom:1px solid gray;
+	border-right:1px solid gray;
+	border-top:1px solid gray;
+		
+}
+
+#content
+{
+	margin-left:auto;
+	margin-right:auto;
+	width:1000px;
+	
+}
+
+#contentL
+{
+	float:left;
+	padding: 5px;
+	width:490px;
+	text-align:left;
+	
+}
+
+#contentR
+{
+	margin-left:5px;
+	float:left;
+	padding:5px;
+	width:485px;
+	font-size:14px;
+	text-align:justify;
+	
+}
+
+#footer1
+{
+	padding: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	height:30px;
+	width:1000px;
+	text-align:center;
+	font-size: 25px;
+
+}
+
+#footer2
+{
+	padding: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	height:30px;
+	width:200px;
+	font-size: 25px;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+#tbar
+{
+	
+}
+
+#zalogowany_jako
+{
+	float:right;
+	color: #ffffff;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:auto;
+	margin-bottom:auto;
+	font-size: 18px;
+	padding:5px;
+
+	
+}
+
+#top_right
+{
+	
+	
+}
+
+
+.opcja1
+{
+	float: left;
+	min-width: 150px;
+	height: 25px;
+	font-size: 18px;
+	border-right: 2px dotted #444444;
+	text-align:center;
+}
+
+.opcja1:hover
+{
+	background-color: #1e8bfe;
+	cursor: pointer;
+}
+
+#wyszukiwanie
+{
+
+	
+
+}
+
+#top
+{
+	text-align:left;
+	font-size:36px;
+	
+	
+}
+
+#wynik
+{
+	
+	
+}
+
+#kontakt
+{
+	font-size:20px;
+}
+
+#mail
+{
+	
+}
+
+.opcja_form
+{
+	float:center;
+	min-width: 150px;
+	height: 25px;
+	font-size: 18px;
+	text-align:center;
+}
+
+.opcja_form:hover
+{
+	
+	background-color: #1e8bfe;
+	cursor: pointer;
+	
+}
+
+
+#menu_form
+{
+	text-align: center;
+	color: #dcc004;
+	padding: 10px;
+	height: 30px;
+	width:180px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+#formularz
+{
+	text-align:center;
+	font-size:16px;
+}
